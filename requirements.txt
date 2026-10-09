@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+python-dotenv
+jinja2
+ipykernel
